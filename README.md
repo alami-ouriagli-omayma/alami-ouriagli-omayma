@@ -28,15 +28,8 @@ An AI-powered smart checkout system using computer vision for automated product 
 A hybrid cybersecurity system combining ML and DRL for automated threat detection and prevention.
 ### TSWIRTI: 
 A full-stack real-time image processing platform built with React and FastAPI.
-### VULNURA:
-A vulnerability analysis dashboard developed with Next.js and React to visualize and monitor CVE security statistics.
 ### MedClick:
 A full-stack dental clinic management platform built with the MERN stack, featuring secure authentication and appointment management.
-
-### About me
-
-I enjoy turning ideas into functional products and continuously
-improving my software engineering skills.
 
 ### Connect with me
 
