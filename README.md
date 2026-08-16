@@ -1,6 +1,6 @@
 # Hi, I'm Omayma 👋
 
-### Full-Stack Web Developer | MERN Stack Enthousiast| Computer Science Engineering Student 
+### Full-Stack Web Developer | MERN Stack Enthousiast | Computer Science Engineering Student 
 
 I'm a Computer Engineering & Artificial Intelligence student at ENSA Safi,
 currently focusing on building modern and scalable web applications.
