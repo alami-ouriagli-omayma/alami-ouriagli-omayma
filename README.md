@@ -23,7 +23,7 @@ currently focusing on building modern and scalable web applications.
 ## 🛠️ Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vuejs,nodejs,express,mongodb,postgresql,firebase,python,fastapi,git,github,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vuejs,nodejs,express,mongodb,postgresql,firebase,python,git,github,postman,vscode,figma" />
 </p>
 
 ###  Featured Projects
