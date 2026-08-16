@@ -12,14 +12,14 @@ currently focusing on building modern and scalable web applications.
 - Frontend: React, Next.js, Vue.js, HTML, CSS, JavaScript
 - Backend: Node.js, Express.js, REST APIs
 - Databases: MongoDB, PostgreSQL, Firebase
-- Tools: Git, GitHub, Postman, Vite
+- Tools: Git, GitHub, Postman, Figma
 
 ---
 
 ##  Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nodejs,express,mongodb,postgresql,firebase,python,git,github,postman,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nodejs,express,mongodb,postgresql,firebase,python,git,github,postman,vscode,figma, uml" />
 </p>
 
 ---
