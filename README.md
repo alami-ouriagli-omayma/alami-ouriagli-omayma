@@ -22,16 +22,11 @@ currently focusing on building modern and scalable web applications.
 
 ###  Featured Projects
 
-### HANOUTY.AI
-An AI-powered smart checkout system using computer vision for automated product detection and real-time sales management.
-### Intelligent IDS/IPS System
-A hybrid cybersecurity system combining Machine Learning and Deep Reinforcement Learning for automated threat detection and prevention.
-### TSWIRTI
-A full-stack real-time image processing platform built with React and FastAPI.
-### VULNURA
-A vulnerability analysis dashboard developed with Next.js and React to visualize and monitor CVE security statistics.
-### MedClick
-A full-stack dental clinic management platform built with the MERN stack, featuring secure authentication and appointment management.
+### HANOUTY.AI: An AI-powered smart checkout system using computer vision for automated product detection on real-time.
+### Intelligent IDS/IPS System: A hybrid cybersecurity system combining ML and DRL for automated threat detection and prevention.
+### TSWIRTI: A full-stack real-time image processing platform built with React and FastAPI.
+### VULNURA: A vulnerability analysis dashboard developed with Next.js and React to visualize and monitor CVE security statistics.
+### MedClick: A full-stack dental clinic management platform built with the MERN stack, featuring secure authentication and appointment management.
 
 
 ### About me
