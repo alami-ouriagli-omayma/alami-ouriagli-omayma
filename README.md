@@ -20,6 +20,12 @@ currently focusing on building modern and scalable web applications.
 - LLM APIs & Tool Calling
 -  AI-powered Applications
 
+## 🛠️ Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vuejs,nodejs,express,mongodb,postgresql,firebase,python,fastapi,git,github,postman,figma" />
+</p>
+
 ###  Featured Projects
 
 ### HANOUTY.AI: 
