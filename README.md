@@ -19,7 +19,7 @@ currently focusing on building modern and scalable web applications.
 ##  Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nodejs,express,mongodb,mysql,postgresql,firebase,python,git,github,postman,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nodejs,express,mongodb,mysql,postgresql,firebase,python,git,github,postman,vscode,figma,wordpress,woocommerce,elementor" />
 </p>
 
 ---
