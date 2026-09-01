@@ -53,8 +53,15 @@ A full-stack dental clinic management platform built with the MERN stack, featur
 ##  GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alami-ouriagli-omayma&show_icons=true&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alami-ouriagli-omayma&layout=compact&theme=dark" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=alami-ouriagli-omayma&show_icons=true&theme=dark"
+    alt="GitHub Stats"
+  />
+  
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alami-ouriagli-omayma&layout=compact&theme=dark"
+    alt="Top Languages"
+  />
 </p>
 
 ---
