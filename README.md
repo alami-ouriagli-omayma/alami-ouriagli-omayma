@@ -37,7 +37,7 @@ currently focusing on building modern and scalable web applications.
 
 ## Currently Building
 
-### 🇲🇦 MoroMatch — AI & Talent Matching Platform
+### 🇲🇦 MoroMatch - AI & Talent Matching Platform
 
 Currently contributing to **MoroMatch**, an AI-powered platform built to connect Moroccan talents, recruiters, and career opportunities.
  **Focus:** AI-powered matching • Talent discovery • Recruitment
