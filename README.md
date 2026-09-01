@@ -50,22 +50,6 @@ A full-stack dental clinic management platform built with the MERN stack, featur
 
 ---
 
-##  GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=alami-ouriagli-omayma&show_icons=true&theme=dark"
-    alt="GitHub Stats"
-  />
-  
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alami-ouriagli-omayma&layout=compact&theme=dark"
-    alt="Top Languages"
-  />
-</p>
-
----
-
 ##  GitHub Streak
 
 <p align="center">
@@ -77,6 +61,7 @@ A full-stack dental clinic management platform built with the MERN stack, featur
 ## Connect With Me
 
 <p align="center">
+
   <a href="https://www.linkedin.com/in/alami-ouriagli-omayma/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -88,4 +73,9 @@ A full-stack dental clinic management platform built with the MERN stack, featur
   <a href="https://github.com/alami-ouriagli-omayma">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
+  <a href="https://alami-ouriagli-omayma.github.io/mon-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+
 </p>
