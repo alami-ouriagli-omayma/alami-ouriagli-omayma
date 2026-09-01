@@ -31,7 +31,21 @@ currently focusing on building modern and scalable web applications.
 - AI Agents & Agentic AI
 - LLM APIs & Tool Calling
 - AI-powered Applications
+---
 
+##  Currently Building
+
+<p align="center">
+  <a href="https://moromatch.com/">
+    <img src="https://img.shields.io/badge/MoroMatch-AI%20%26%20Talent%20Matching-111111?style=for-the-badge" />
+  </a>
+</p>
+
+### 🇲🇦 MoroMatch — AI & Talent Matching Platform
+
+I'm currently contributing to **MoroMatch**, an AI-powered platform designed to connect Moroccan talents with recruiters and career opportunities.
+
+ **[Explore MoroMatch →](https://moromatch.com/)**
 ---
 
 ## Featured Projects
