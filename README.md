@@ -50,14 +50,6 @@ A full-stack dental clinic management platform built with the MERN stack, featur
 
 ---
 
-##  GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=alami-ouriagli-omayma&theme=dark" />
-</p>
-
----
-
 ## Connect With Me
 
 <p align="center">
