@@ -77,7 +77,7 @@ A full-stack dental clinic management platform built with the MERN stack, featur
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="https://alami-ouriagli-omayma.github.io/mon-portfolio/">
+  <a href="https://alami-ouriagli-omayma.github.io/my-portfolio-2026/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 
