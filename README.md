@@ -82,7 +82,7 @@ A full-stack dental clinic management platform built with the MERN stack, featur
 </p>
 
 <p align="center">
-  <sub>Full-Stack Web Developer • MERN • AI & Agentic AI</sub>
+  <sub>Full-Stack Web Developer • MERN • Agentic AI</sub>
 </p>
 
 ---
