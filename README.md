@@ -7,7 +7,7 @@ currently focusing on building modern and scalable web applications.
 
 ---
 
-##  What I'm Working With
+## What I'm Working With
 
 - Frontend: React, Next.js, Vue.js, HTML, CSS, JavaScript
 - Backend: Node.js, Express.js, REST APIs
@@ -16,7 +16,15 @@ currently focusing on building modern and scalable web applications.
 
 ---
 
-##  Skills
+## Most Used Languages
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alami-ouriagli-omayma&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## Skills
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nodejs,express,mongodb,mysql,postgresql,firebase,python,git,github,gitlab,postman,vscode,figma,wordpress" />
@@ -24,14 +32,13 @@ currently focusing on building modern and scalable web applications.
 
 ---
 
-##  Currently Learning
+## Currently Learning
 
 - Full-Stack Architecture
 - Testing & Clean Code
 - AI Agents & Agentic AI
 - LLM APIs & Tool Calling
 - AI-powered Applications
----
 
 ---
 
@@ -40,11 +47,13 @@ currently focusing on building modern and scalable web applications.
 ### 🇲🇦 MoroMatch - AI & Talent Matching Platform
 
 Currently contributing to **MoroMatch**, an AI-powered platform built to connect Moroccan talents, recruiters, and career opportunities.
- **Focus:** AI-powered matching • Talent discovery • Recruitment
 
- [Explore MoroMatch →](https://moromatch.com/)
+**Focus:** AI-powered matching • Talent discovery • Recruitment
+
+[Explore MoroMatch →](https://moromatch.com/)
 
 ---
+
 ## Featured Projects
 
 ### HANOUTY.AI
@@ -82,3 +91,4 @@ A full-stack dental clinic management platform built with the MERN stack, featur
   </a>
 
 </p>
+```
