@@ -69,6 +69,24 @@ A full-stack real-time image processing platform built with React and FastAPI.
 A full-stack dental clinic management platform built with the MERN stack, featuring secure authentication and appointment management.
 
 ---
+---
+
+## My Resume
+
+<p align="center">
+
+  <a href="https://alami-ouriagli-omayma.github.io/cv/">
+    <img src="https://img.shields.io/badge/%20View%20My%20CV-8B5CF6?style=for-the-badge" />
+  </a>
+
+</p>
+
+<p align="center">
+  <sub>Full-Stack Web Developer • MERN • AI & Agentic AI</sub>
+</p>
+
+---
+---
 
 ## Connect With Me
 
