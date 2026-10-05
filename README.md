@@ -86,7 +86,6 @@ A full-stack dental clinic management platform built with the MERN stack, featur
 </p>
 
 ---
----
 
 ## Connect With Me
 
@@ -109,4 +108,3 @@ A full-stack dental clinic management platform built with the MERN stack, featur
   </a>
 
 </p>
-```
