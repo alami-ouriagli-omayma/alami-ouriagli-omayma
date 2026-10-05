@@ -75,19 +75,19 @@ A full-stack dental clinic management platform built with the MERN stack, featur
 <p align="center">
 
   <a href="https://www.linkedin.com/in/alami-ouriagli-omayma/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-2F343B?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="mailto:oumaimaaloryagli@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-2F343B?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
   <a href="https://github.com/alami-ouriagli-omayma">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-2F343B?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
   <a href="https://alami-ouriagli-omayma.github.io/my-portfolio-2026/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-2F343B?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 
 </p>
