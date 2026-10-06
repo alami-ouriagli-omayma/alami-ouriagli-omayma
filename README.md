@@ -82,21 +82,15 @@ currently focusing on building modern and scalable web applications.
 </table>
 
 ---
-
 ## Skills
 
 <p align="left">
   <img
-    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nodejs,express,mongodb,mysql,postgresql,supabase,firebase,python,git,github,gitlab,postman,vscode,figma,wordpress"
+    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nodejs,express,mongodb,mysql,postgresql,firebase, supabase,python,git,github,gitlab,postman,vscode,figma,wordpress"
     alt="Technical Skills"
   />
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
-</p>
 ---
 
 ## Currently Learning
