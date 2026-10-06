@@ -1,4 +1,4 @@
-# Hi, I'm Omayma 👋
+# Hi, I'm Omayma
 
 ### Full-Stack Web Developer | MERN Stack Enthusiast | Computer Science Engineering Student
 
@@ -10,11 +10,12 @@ currently focusing on building modern and scalable web applications.
 ## Professional Experience
 
 <table width="100%">
+  
   <tr>
     <td width="40%" align="center" valign="middle">
-      <img
-        src="./assets/companies/mic.png"
-        width="160"
+      <img 
+        src="./assets/companies/mic.png" 
+        width="170"
         alt="MAAZIZ IT CONSEIL"
       />
     </td>
@@ -30,17 +31,15 @@ currently focusing on building modern and scalable web applications.
 
       <strong>MoroMatch</strong>
       <br />
-      <sub>
-        RAG · LLMs · LangGraph · Django
-      </sub>
+      <sub>RAG · LLMs · LangGraph · Django</sub>
     </td>
   </tr>
 
   <tr>
     <td width="40%" align="center" valign="middle">
-      <img
-        src="./assets/companies/octicode.png"
-        width="160"
+      <img 
+        src="./assets/companies/octicode.png" 
+        width="170"
         alt="OCTICODE"
       />
     </td>
@@ -56,19 +55,16 @@ currently focusing on building modern and scalable web applications.
 
       <strong>Vulnura</strong>
       <br />
-      <sub>
-        Next.js · React.js · TypeScript
-      </sub>
+      <sub>Next.js · React.js · TypeScript</sub>
 
       <br /><br />
 
       <strong>Big Fournitures</strong>
       <br />
-      <sub>
-        WordPress · WooCommerce
-      </sub>
+      <sub>WordPress · WooCommerce</sub>
     </td>
   </tr>
+
 </table>
 
 ---
@@ -85,7 +81,7 @@ currently focusing on building modern and scalable web applications.
 ## Most Used Languages
 
 <p align="left">
-  <img
+  <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=alami-ouriagli-omayma&layout=compact&theme=transparent&hide_border=true"
     alt="Most Used Languages"
   />
@@ -96,7 +92,7 @@ currently focusing on building modern and scalable web applications.
 ## Skills
 
 <p align="left">
-  <img
+  <img 
     src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nodejs,express,mongodb,mysql,postgresql,firebase,python,git,github,gitlab,postman,vscode,figma,wordpress"
     alt="Technical Skills"
   />
@@ -116,7 +112,7 @@ currently focusing on building modern and scalable web applications.
 
 ## Currently Building
 
-### 🇲🇦 MoroMatch — AI & Talent Matching Platform
+### MoroMatch — AI & Talent Matching Platform
 
 Currently contributing to **MoroMatch**, an AI-powered platform built to connect Moroccan talents, recruiters, and career opportunities.
 
@@ -153,7 +149,7 @@ A full-stack dental clinic management platform built with the MERN stack, featur
 <p align="center">
 
   <a href="https://alami-ouriagli-omayma.github.io/cv/">
-    <img
+    <img 
       src="https://img.shields.io/badge/View%20My%20CV-8B5CF6?style=for-the-badge"
       alt="View My CV"
     />
@@ -172,28 +168,28 @@ A full-stack dental clinic management platform built with the MERN stack, featur
 <p align="center">
 
   <a href="https://www.linkedin.com/in/alami-ouriagli-omayma/">
-    <img
+    <img 
       src="https://img.shields.io/badge/LinkedIn-00A0DC?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
     />
   </a>
 
   <a href="mailto:oumaimaaloryagli@gmail.com">
-    <img
+    <img 
       src="https://img.shields.io/badge/Email-FF4B6E?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Email"
     />
   </a>
 
   <a href="https://github.com/alami-ouriagli-omayma">
-    <img
+    <img 
       src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub"
     />
   </a>
 
   <a href="https://alami-ouriagli-omayma.github.io/my-portfolio-2026/">
-    <img
+    <img 
       src="https://img.shields.io/badge/Portfolio-00C9A7?style=for-the-badge&logo=google-chrome&logoColor=white"
       alt="Portfolio"
     />
