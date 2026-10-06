@@ -45,8 +45,8 @@ currently focusing on building modern and scalable web applications.
       <br />
       <em>Juillet – Septembre 2026</em>
       <br /><br />
-      <br /><br />
-      <strong>MoroMatch</strong>
+      <strong>Project</strong>
+      <strong>TIZIRI: AI Agent </strong>
       <br />
       <sub>RAG · LLMs · LangGraph · Django</sub>
     </td>
@@ -67,7 +67,7 @@ currently focusing on building modern and scalable web applications.
       <br />
       <em>Juin – Août 2025</em>
       <br /><br />
-      <br /><br />
+      <strong>Projects</strong>
       <strong>Vulnura</strong>
       <br />
       <sub>Next.js · React.js · TypeScript</sub>
