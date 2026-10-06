@@ -86,13 +86,12 @@ currently focusing on building modern and scalable web applications.
 
 <p align="left">
   <img
-    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nodejs,express,mongodb,mysql,postgresql,firebase, supabase,python,git,github,gitlab,postman,vscode,figma,wordpress"
+    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nodejs,express,mongodb,mysql,postgresql,firebase,supabase,python,git,github,gitlab,postman,vscode,figma,wordpress"
     alt="Technical Skills"
   />
 </p>
 
 ---
-
 ## Currently Learning
 
 - Full-Stack Architecture
