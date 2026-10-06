@@ -7,58 +7,6 @@ currently focusing on building modern and scalable web applications.
 
 ---
 
-## Professional Experience
-
-<table width="100%">
-  <tr>
-    <td width="40%" align="center" valign="middle">
-      <img
-        src="./assets/companies/mic.png"
-        width="170"
-        alt="MAAZIZ IT CONSEIL"
-      />
-    </td>
-    <td width="60%" valign="middle">
-      <strong>Stagiaire Développeuse Full-Stack / Agent IA</strong>
-      <br />
-      <strong>MAAZIZ IT CONSEIL</strong>
-      <br />
-      <em>Juillet – Septembre 2026</em>
-      <br /><br />
-      <strong>MoroMatch</strong>
-      <br />
-      <sub>RAG · LLMs · LangGraph · Django</sub>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="40%" align="center" valign="middle">
-      <img
-        src="./assets/companies/octicode.png"
-        width="170"
-        alt="OCTICODE"
-      />
-    </td>
-    <td width="60%" valign="middle">
-      <strong>Stagiaire Développeuse Full-Stack</strong>
-      <br />
-      <strong>OCTICODE</strong>
-      <br />
-      <em>Juin – Août 2025</em>
-      <br /><br />
-      <strong>Vulnura</strong>
-      <br />
-      <sub>Next.js · React.js · TypeScript</sub>
-      <br /><br />
-      <strong>Big Fournitures</strong>
-      <br />
-      <sub>WordPress · WooCommerce</sub>
-    </td>
-  </tr>
-</table>
-
----
-
 ## What I'm Working With
 
 - **Frontend:** React, Next.js, Vue.js, HTML, CSS, JavaScript
@@ -76,6 +24,60 @@ currently focusing on building modern and scalable web applications.
     alt="Most Used Languages"
   />
 </p>
+
+---
+
+## Professional Experience
+
+<table width="100%">
+  <tr>
+    <td width="40%" align="center" valign="middle">
+      <img
+        src="./assets/companies/mic.png"
+        width="170"
+        alt="MAAZIZ IT CONSEIL"
+      />
+    </td>
+    <td width="60%" valign="middle">
+      <strong>Stagiaire Développeuse Full-Stack / Agent IA</strong>
+      <br />
+      <strong>MIC</strong>
+      <br />
+      <em>Juillet – Septembre 2026</em>
+      <br /><br />
+      <br /><br />
+      <strong>MoroMatch</strong>
+      <br />
+      <sub>RAG · LLMs · LangGraph · Django</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="40%" align="center" valign="middle">
+      <img
+        src="./assets/companies/octicode.png"
+        width="160"
+        alt="OCTICODE"
+      />
+    </td>
+    <td width="60%" valign="middle">
+      <strong>Stagiaire Développeuse Full-Stack</strong>
+      <br />
+      <strong>OCTICODE</strong>
+      <br />
+      <em>Juin – Août 2025</em>
+      <br /><br />
+      <br /><br />
+      <strong>Vulnura</strong>
+      <br />
+      <sub>Next.js · React.js · TypeScript</sub>
+      <br /><br />
+      <strong>Big Fournitures</strong>
+      <br />
+      <sub>WordPress · WooCommerce</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
