@@ -9,10 +9,10 @@ currently focusing on building modern and scalable web applications.
 
 ## What I'm Working With
 
-- **Frontend:** React, Next.js, Vue.js, HTML, CSS, JavaScript
-- **Backend:** Node.js, Express.js, REST APIs
-- **Databases:** MongoDB, PostgreSQL, Firebase
-- **Tools:** Git, GitHub, Postman, Figma
+- **Frontend:** React, Next.js, Vue.js, HTML, CSS, Tailwind CSS, JavaScript, TypeScript
+- **Backend:** Node.js, Express.js, FastAPI, REST APIs
+- **Databases:** MongoDB, PostgreSQL, MySQL, Supabase, Firebase, UML
+- **Tools & CMS:** Git, GitHub, GitLab, VS Code, Postman, Figma, Wordpress/WooCommerce
 
 ---
 
