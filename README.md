@@ -13,7 +13,7 @@ currently focusing on building modern and scalable web applications.
 - **Backend:** Node.js, Express.js, FastAPI, REST APIs
 - **Databases:** MongoDB, PostgreSQL, MySQL, Supabase, Firebase, UML
 - **Tools & CMS:** Git, GitHub, GitLab, VS Code, Postman, Figma, Wordpress/WooCommerce
-
+- **Project Management:** Agile, Scrum, Trello, Notion
 ---
 
 ## Most Used Languages
