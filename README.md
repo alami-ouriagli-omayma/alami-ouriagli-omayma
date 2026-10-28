@@ -20,7 +20,7 @@ currently focusing on building modern and scalable web applications.
 
 <p align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alami-ouriagli-omayma&layout=compact&theme=transparent&hide_border=true&v=1"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=alami-ouriagli-omayma&layout=compact&theme=transparent&hide_border=true"
     alt="Most Used Languages"
   />
 </p>
